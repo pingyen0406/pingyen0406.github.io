@@ -6,7 +6,7 @@
 name: Ping-Yen Hsieh
 
 # Short bio or description (displayed in the header)
-description: PhD student at Department of Photonics
+description: PhD student at Department of Photonics, NYCU, Taiwan
 
 
 #
@@ -21,7 +21,7 @@ footer-links:
   flickr:
   github: pingyen0406
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: ping-yen-hsieh-3157931ab
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://pingyen0406.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
