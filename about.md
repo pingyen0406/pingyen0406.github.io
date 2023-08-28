@@ -4,52 +4,31 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+Welcome! I am a second-year Ph.D. student at the Department of Photonics, National Yang Ming Chiao Tung University, under the supervision of [You-Chia Chang](https://nycusng.web.nycu.edu.tw/pi/).  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+I am interested in silicon photonics and metasurfaces. Over the past few years, I worked on monolithic integration between silicon photonics and metasurfaces.
+Recently, I am working on increasing the resolution of the silicon photonic LiDAR system.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Ph.D. in Photonics, National Yang Ming Chiao Tung University, starting from 2021
+* M.S. in Photonics, National Chiao Tung University, 2020
+  *  Dissertation title: Monolithically integrated metalens on silicon photonic platform
+  *  Advisor: You-Chia Chang
+* B.S. in Physics, National Tsing Hua University, 2018
 
-## Roles
+## Work experience
 
-Founder, ABC Organisation
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* Sep 2020 - Aug 2021: Research Assistant
+  * National Chiao Tung University
+  * Supervisor: You-Chia Chang
     
-    
-## Achievements
+## Honors and Awards
 
-
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+* Best Student Research Award, National Yang Ming Chiao Tung University, 2023
+* Best Student Oral Paper Award at Optics & Photonics Taiwan International Conference, 2022
+* Undergraduate Research Scholarship, Department of Physics, National Tsing Hua University, 2017
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[pingyen.ee10@nycu.edu.tw](mailto:pingyen.ee10@nycu.edu.tw)
