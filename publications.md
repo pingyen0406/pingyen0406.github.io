@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Publications
 permalink: /publications/
 author_profile: true
 ---
@@ -11,11 +12,11 @@ author_profile: true
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
 *Nanophotonics* 11, 4687-4695 (2022).
 
-Silicon Photonic On-chip Metasurfaces with Simultaneous Emission Amplitude and Phase Control
+Silicon Photonic On-chip Metasurfaces with Simultaneous Emission Amplitude and Phase Control  
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang
 *Optics and Photonics Taiwan International Conference (OPTIC)*, 2022-FRI-S0102-O002 (2022). *Receive student oral paper award
 
-Millimeter-scale 2D free-space beam emitters on silicon photonics
+Millimeter-scale 2D free-space beam emitters on silicon photonics  
 Jyun-Ying Lin, Yi Zhou, **Ping-Yen Hsieh**, and You-Chia Chang
 *Optics and Photonics Taiwan International Conference (OPTIC)*, 2022-SAT-P0101-P031 (2022).
 
@@ -27,7 +28,7 @@ Yu-Siang Lin, **Ping-Yen Hsieh**, Shun-Lin Fang, and You-Chia Chang
 **Ping-Yen Hsieh**, Yu-Siang Lin, Shun-Lin Fang, and You-Chia Chang  
 *CLEO*, paper SM4P.7 (2022)  
 
-Metasurface on silicon photonics for free-space applications
+Metasurface on silicon photonics for free-space applications  
 **Ping-Yen Hsieh**, Yi Zhao, Chung-Yu Hsu, Min Chul Shin, Christopher T. Phare, Steven A. Miller, Euijae Shim, Michal Lipson, and You-Chia Chang 
 *International Symposium on Imaging, Sensing (ISOM)*, We-C-02 (2021).
 
@@ -35,6 +36,6 @@ Metasurface on silicon photonics for free-space applications
 **Ping-Yen Hsieh**, Yi Zhao, Chung-Yu Hsu, Min Chul Shin, Christopher T. Phare, Steven A. Miller, Euijae Shim, Michal Lipson, and You-Chia Chang  
 *OECC*, paper S4D.2 (2021)  
 
-Monolithically integrated metalens on silicon photonic waveguides
+Monolithically integrated metalens on silicon photonic waveguides  
 **Ping-Yen Hsieh** and You-Chia Chang
 *Optics and Photonics Taiwan International Conference (OPTIC)*, 2020-SAT-S0106-O005 (2020).
