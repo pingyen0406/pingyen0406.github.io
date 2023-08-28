@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 Welcome! I am a second-year Ph.D. student at the Department of Photonics, National Yang Ming Chiao Tung University, under the supervision of [You-Chia Chang](https://nycusng.web.nycu.edu.tw/pi/).  
