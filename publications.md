@@ -36,6 +36,6 @@ Yu-Siang Lin, **Ping-Yen Hsieh**, Shun-Lin Fang, and You-Chia Chang
 **Ping-Yen Hsieh**, Yi Zhao, Chung-Yu Hsu, Min Chul Shin, Christopher T. Phare, Steven A. Miller, Euijae Shim, Michal Lipson, and You-Chia Chang  
 *OECC*, paper S4D.2 (2021)  
 
-Monolithically integrated metalens on silicon photonic waveguides  
+* Monolithically integrated metalens on silicon photonic waveguides  
 **Ping-Yen Hsieh** and You-Chia Chang
 *Optics and Photonics Taiwan International Conference (OPTIC)*, 2020-SAT-S0106-O005 (2020).
