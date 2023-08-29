@@ -29,6 +29,6 @@ Recently, I am working on increasing the resolution of the silicon photonic LiDA
 * Best Student Oral Paper Award at Optics & Photonics Taiwan International Conference, 2022
 * Undergraduate Research Scholarship, Department of Physics, National Tsing Hua University, 2017
 
-## Contact me
+## Contact
 
 [pingyen.ee10@nycu.edu.tw](mailto:pingyen.ee10@nycu.edu.tw)
