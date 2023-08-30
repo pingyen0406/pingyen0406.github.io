@@ -6,7 +6,7 @@ author_profile: true
 ---
 * [Metasurfaces on Silicon Photonic Waveguides for Simultaneous Emission Phase and Amplitude Control](https://doi.org/10.1364/OE.487589)  
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
-*Optics Express* 31, 12487-12496 (2023). <span style="color:red">some **Top downloads in April 2023** text</span>
+*Optics Express* 31, 12487-12496 (2023). <span style="color:red"> *Top downloads in April 2023 </span>
 
 * [Integrated Metasurfaces on Silicon Photonics for Emission Shaping and Holographic Projection](https://doi.org/10.1515/nanoph-2022-0344)  
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
@@ -14,7 +14,7 @@ author_profile: true
 
 * Silicon Photonic On-chip Metasurfaces with Simultaneous Emission Amplitude and Phase Control  
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
-*Optics and Photonics Taiwan International Conference (OPTIC)*, 2022-FRI-S0102-O002 (2022). <span style="color:red">some **Receive student oral paper award** text</span>
+*Optics and Photonics Taiwan International Conference (OPTIC)*, 2022-FRI-S0102-O002 (2022). <span style="color:red"> *Receive student oral paper award </span>
 
 * Millimeter-scale 2D free-space beam emitters on silicon photonics  
 Jyun-Ying Lin, Yi Zhou, **Ping-Yen Hsieh**, and You-Chia Chang  
