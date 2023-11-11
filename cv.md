@@ -21,6 +21,7 @@ Work experience
 
 Honors & Awards
 ------
+* Science and Technology Scholarship, CTCI Foundation, 2023
 * Best Student Research Award, National Yang Ming Chiao Tung University, 2022
 * Best Student Oral Paper Award at Optics & Photonics Taiwan International Conference, 2022
 * Undergraduate Research Scholarship, Department of Physics, National Tsing Hua University, 2017
