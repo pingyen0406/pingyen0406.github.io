@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Welcome! I am a Ph.D. candidate at Department of Photonics, National Yang Ming Chiao Tung University, under the supervision of [You-Chia Chang](https://nycusng.web.nycu.edu.tw/pi/).  
+Welcome! I am a Ph.D. candidate at the Department of Photonics, National Yang Ming Chiao Tung University, under the supervision of [You-Chia Chang](https://nycusng.web.nycu.edu.tw/pi/).  
 
-I am interested in silicon photonics and metasurfaces. Over the past few years, I worked on monolithic integration between silicon photonics and metasurfaces.
-Recently, I am working on increasing the resolution of the silicon photonic LiDAR system.
+My reasarch topics are related to silicon photonics and metasurfaces. For the past few years, I worked on monolithic integration between silicon photonics and metasurfaces. Recently, I am working on increasing the resolution of the silicon photonic beam steerer.
 
 ## Education
 
-* Ph.D. in Photonics, National Yang Ming Chiao Tung University, starting from 2021
+* Ph.D. in Photonics, National Yang Ming Chiao Tung University, starting from Sep. 2021
 * M.S. in Photonics, National Chiao Tung University, 2020
   *  Dissertation title: Monolithically integrated metalens on silicon photonic platform
   *  Advisor: You-Chia Chang
@@ -25,6 +24,7 @@ Recently, I am working on increasing the resolution of the silicon photonic LiDA
     
 ## Honors and Awards
 
+* Research Scholorship, CTCI Foundation Science and Technology, 2023
 * Best Student Research Award, National Yang Ming Chiao Tung University, 2023
 * Best Student Oral Paper Award at Optics & Photonics Taiwan International Conference, 2022
 * Undergraduate Research Scholarship, Department of Physics, National Tsing Hua University, 2017
