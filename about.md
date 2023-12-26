@@ -10,7 +10,7 @@ My reasarch topics are related to silicon photonics and metasurfaces. For the pa
 
 ## Education
 
-* Ph.D. in Photonics, National Yang Ming Chiao Tung University, starting from Sep. 2021
+* Ph.D. in Photonics, National Yang Ming Chiao Tung University, 2021/9 ~
 * M.S. in Photonics, National Chiao Tung University, 2020
   *  Dissertation title: Monolithically integrated metalens on silicon photonic platform
   *  Advisor: You-Chia Chang
