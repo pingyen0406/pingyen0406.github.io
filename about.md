@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Welcome! I am a Ph.D. candidate at the Department of Photonics, National Yang Ming Chiao Tung University (NYCU), under the supervision of [You-Chia Chang](https://nycusng.web.nycu.edu.tw/pi/).  
+Welcome! I am a Ph.D. candidate at the Department of Photonics, National Yang Ming Chiao Tung University, under the supervision of [You-Chia Chang](https://nycusng.web.nycu.edu.tw/pi/). Currently, I am in [FloQuET lab](https://floquet.umd.edu/) at the University of Maryland as a research scholar.
 
-My reasarch topics are related to silicon photonics and metasurfaces. For the past few years, I worked on monolithic integration between silicon photonics and metasurfaces. Recently, I am working on increasing the resolution of the silicon photonic beam steerer.
+I work on monolithic integration between metasurfaces and silicon photonics, LiDAR, and on-chip nonlinear photonics.
 
 ## Education
 
+* Research scholar in IPST, University of Maryland, 2024/6 ~ 2025/6
 * Ph.D. in Photonics, NYCU, 2021/9 ~
 * M.S. in Photonics, National Chiao Tung University (NCTU), 2020
   *  Dissertation title: Monolithically integrated metalens on silicon photonic platform
