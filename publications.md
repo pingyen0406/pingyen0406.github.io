@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * [Silicon Photonic Beam Steerer Based on Metalens Focal Plane Array with Direction Fine-tuning](https://doi.org/10.1364/CLEO_SI.2024.SW4O.5)  
-**Ping-Yen Hsieh**, and You-Chia Chang
+**Ping-Yen Hsieh**, and You-Chia Chang  
 *CLEO* paper SW4O.5 (2024)
 
 * [Metasurfaces on Silicon Photonic Waveguides for Simultaneous Emission Phase and Amplitude Control](https://doi.org/10.1364/OE.487589)  
