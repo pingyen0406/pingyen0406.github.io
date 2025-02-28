@@ -4,13 +4,13 @@ title: Publications
 permalink: /publications/
 author_profile: true
 ---
-* [Strong nanophotonic quantum squeezing exceeding 3.5 dB in a foundry-compatible Kerr microresonator](https://arxiv.org/abs/2411.11679)  
+* [Strong nanophotonic quantum squeezing exceeding 3.5 dB in a foundry-compatible Kerr microresonator](https://doi.org/10.1364/OPTICA.542968)  
 Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Samantha Feldman, You-Chia Chang, Thomas A. Smith, Avik Dutt  
-arXiv:2411.11679 (2024)   
+*Optica* 12, 302-308 (2025).   
 
 * [Silicon Photonic Beam Steerer Based on Metalens Focal Plane Array with Direction Fine-tuning](https://doi.org/10.1364/CLEO_SI.2024.SW4O.5)  
 **Ping-Yen Hsieh** and You-Chia Chang  
-*CLEO*, paper SW4O.5 (2024)
+*CLEO*, paper SW4O.5 (2024).
 
 * [Metasurfaces on Silicon Photonic Waveguides for Simultaneous Emission Phase and Amplitude Control](https://doi.org/10.1364/OE.487589)  
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
