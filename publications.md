@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 author_profile: true
 ---
+* [Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability]([https://doi.org/10.1364/OPTICA.542968](https://arxiv.org/abs/2505.03734))  
+Yichen Shen&dagger, **Ping-Yen Hsieh**&dagger, Dhruv Srinivasan, Antoine Henry, Gregory Moille, Sashank Kaushik Sridhar, Alessandro Restelli, You-Chia Chang, Kartik Srinivasan, Thomas A. Smith, Avik Dutt  
+arXiv:2505.03734 (2025). &dagger: co-first author  
+
 * [Strong nanophotonic quantum squeezing exceeding 3.5 dB in a foundry-compatible Kerr microresonator](https://doi.org/10.1364/OPTICA.542968)  
 Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Samantha Feldman, You-Chia Chang, Thomas A. Smith, Avik Dutt  
 *Optica* 12, 302-308 (2025).   
