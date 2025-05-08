@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 author_profile: true
 ---
-* [Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability]([https://doi.org/10.1364/OPTICA.542968](https://arxiv.org/abs/2505.03734))  
+* [Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability](https://arxiv.org/abs/2505.03734)  
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Gregory Moille, Sashank Kaushik Sridhar, Alessandro Restelli, You-Chia Chang, Kartik Srinivasan, Thomas A. Smith, Avik Dutt  
 arXiv:2505.03734 (2025). <span>&#8224;</span>: co-first author  
 
