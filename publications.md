@@ -8,7 +8,7 @@ author_profile: true
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Gregory Moille, Sashank Kaushik Sridhar, Alessandro Restelli, You-Chia Chang, Kartik Srinivasan, Thomas A. Smith, Avik Dutt  
 arXiv:2505.03734 (2025). <span>&#8224;</span>: co-first authors
 
-* [Observation of a bright squeezed quantum frequency comb in nanophotonics]
+* Observation of a bright squeezed quantum frequency comb in nanophotonics  
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, You-Chia Chang, Thomas A. Smith, Avik Dutt
 *CLEO*, paper FF103.7 (2025). <span>&#8224;</span>: co-first authors
 
