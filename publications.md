@@ -9,7 +9,7 @@ Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv S
 arXiv:2505.03734 (2025). <span>&#8224;</span>: co-first authors
 
 * Observation of a bright squeezed quantum frequency comb in nanophotonics  
-Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, You-Chia Chang, Thomas A. Smith, Avik Dutt
+Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, You-Chia Chang, Thomas A. Smith, Avik Dutt  
 *CLEO*, paper FF103.7 (2025). <span>&#8224;</span>: co-first authors
 
 * [Strong nanophotonic quantum squeezing exceeding 3.5 dB in a foundry-compatible Kerr microresonator](https://doi.org/10.1364/OPTICA.542968)  
