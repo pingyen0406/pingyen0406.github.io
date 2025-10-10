@@ -4,16 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Welcome! I work on integrated photonics, including classical and quantum aspects. Classically, I integrate metasurfaces with silicon photonc platform for beam shaping and steering in free space. On the other hand, I use high-Q silicon nitride microresonator to generate squeezed states of light. 
+Welcome! I am working on classical and quantum aspects of integrated photonics. Classically, I integrate metasurfaces with silicon photonc platform for beam shaping and steering in free space. On the other hand, I use high-Q silicon nitride microresonator to generate squeezed states of light. 
 
 ## Education
-* Ph.D. in Photonics, NYCU, 2025
+* Ph.D. in Photonics, National Yang Ming Chiao Tung University, 2025
   *  Dissertation title: Beam Shaping, Steering, and Quantum Squeezing Enabled by Silicon Photonics
   *  Advisor: [You-Chia Chang](https://nycusng.web.nycu.edu.tw/pi/)
-* M.S. in Photonics, National Yang Ming Chiao Tung University (NCTU), 2020
+* M.S. in Photonics, National Yang Ming Chiao Tung University, 2020
   *  Dissertation title: Monolithically Integrated Metalens on Silicon Photonic Platform
   *  Advisor: You-Chia Chang
-* B.S. in Physics, National Tsing Hua University (NTHU), 2018
+* B.S. in Physics, National Tsing Hua University, 2018
 
 ## Experience
 * May 2024 - May 2025: Research Scholar
@@ -26,9 +26,9 @@ Welcome! I work on integrated photonics, including classical and quantum aspects
 ## Honors and Awards
 * Graduate student studying abroad program, National Science and Technology Council, 2024
 * Science and Technology Research Scholorship, CTCI Foundation, 2023
-* Student Reserch Scholarship, NYCU, 2023
+* Student Reserch Scholarship, National Yang Ming Chiao Tung University, 2023
 * Best Student Oral Paper Award at Optics & Photonics Taiwan International Conference, 2022
-* Undergraduate Research Scholarship, Department of Physics, NTHU, 2017
+* Undergraduate Research Scholarship, Department of Physics, National Tsing Hua University, 2017
 
 ## Contact
 
