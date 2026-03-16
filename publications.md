@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 author_profile: true
 ---
-# Journal Articles  
+## Journal Articles  
 * [Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability](https://arxiv.org/abs/2505.03734)  
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Gregory Moille, Sashank Kaushik Sridhar, Alessandro Restelli, You-Chia Chang, Kartik Srinivasan, Thomas A. Smith, Avik Dutt  
 arXiv:2505.03734 (2025). <span>&#8224;</span>: co-first authors
@@ -21,7 +21,7 @@ Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Samantha Feldman, You-
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
 *Nanophotonics* 11, 4687-4695 (2022).
 
-# Conference Proceedings  
+## Conference Proceedings  
 
 * [Strong squeezing from seed-assisted parametric amplification and its gain dependence in SiN microresonators](https://doi.org/10.1117/12.3085415)  
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, You-Chia Chang, Thomas A. Smith, Avik Dutt  
