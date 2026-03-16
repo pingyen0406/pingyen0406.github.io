@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome! I am working on classical and quantum aspects of integrated photonics. Classically, I integrate metasurfaces with silicon photonc platform for beam shaping and steering in free space. On the other hand, I use high-Q silicon nitride microresonator to generate squeezed states of light. 
+Welcome! I am working on classical and quantum aspects of integrated photonics. Classically, I integrate metasurfaces with the silicon photonic platform for free-space beam shaping and steering. On the other hand, I use high-Q silicon nitride microresonators to generate squeezed states of light. Besides doing research, I like swimming and travelling.
 
 ## Education
 * Ph.D. in Photonics, National Yang Ming Chiao Tung University, 2025
@@ -25,8 +25,8 @@ Welcome! I am working on classical and quantum aspects of integrated photonics. 
     
 ## Honors and Awards
 * Graduate student studying abroad program, National Science and Technology Council, 2024
-* Science and Technology Research Scholorship, CTCI Foundation, 2023
-* Student Reserch Scholarship, National Yang Ming Chiao Tung University, 2023
+* Science and Technology Research Scholarship, CTCI Foundation, 2023
+* Student Research Scholarship, National Yang Ming Chiao Tung University, 2023
 * Best Student Oral Paper Award at Optics & Photonics Taiwan International Conference, 2022
 * Undergraduate Research Scholarship, Department of Physics, National Tsing Hua University, 2017
 
