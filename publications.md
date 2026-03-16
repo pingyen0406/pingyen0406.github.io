@@ -35,7 +35,7 @@ Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv S
 Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Samantha Feldman, You-Chia Chang, Thomas A. Smith, Avik Dutt  
 *OFC*, paper M3E.2 (2025). 
 
-* [2D wide field-of-view (FOV) metalens focal plane array (FPA) based silicon photonic beam steering for optical wireless communication (OWC)](https://ieeexplore.ieee.org/abstract/document/11047159)
+* [2D wide field-of-view (FOV) metalens focal plane array (FPA) based silicon photonic beam steering for optical wireless communication (OWC)](https://ieeexplore.ieee.org/abstract/document/11047159)  
 Pin-Cheng Kuo, Chung-Yu Hsu, **Ping-Yen Hsieh**, Yuan-Zeng Lin, You-Chia Chang, Chi-Wai Chow
 *OFC*, paper Th2A.41 (2025).
 
