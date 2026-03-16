@@ -4,21 +4,14 @@ title: Publications
 permalink: /publications/
 author_profile: true
 ---
+# Journal Articles  
 * [Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability](https://arxiv.org/abs/2505.03734)  
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Gregory Moille, Sashank Kaushik Sridhar, Alessandro Restelli, You-Chia Chang, Kartik Srinivasan, Thomas A. Smith, Avik Dutt  
 arXiv:2505.03734 (2025). <span>&#8224;</span>: co-first authors
 
-* [Observation of a bright squeezed quantum frequency comb in nanophotonics](https://doi.org/10.1364/CLEO_FS.2025.FF103_7)  
-Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, You-Chia Chang, Thomas A. Smith, Avik Dutt  
-*CLEO*, paper FF103.7 (2025). <span>&#8224;</span>: co-first authors
-
 * [Strong nanophotonic quantum squeezing exceeding 3.5 dB in a foundry-compatible Kerr microresonator](https://doi.org/10.1364/OPTICA.542968)  
 Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Samantha Feldman, You-Chia Chang, Thomas A. Smith, Avik Dutt  
 *Optica* 12, 302-308 (2025).   
-
-* [Silicon Photonic Beam Steerer Based on Metalens Focal Plane Array with Direction Fine-tuning](https://doi.org/10.1364/CLEO_SI.2024.SW4O.5)  
-**Ping-Yen Hsieh** and You-Chia Chang  
-*CLEO*, paper SW4O.5 (2024).
 
 * [Metasurfaces on Silicon Photonic Waveguides for Simultaneous Emission Phase and Amplitude Control](https://doi.org/10.1364/OE.487589)  
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
@@ -27,6 +20,28 @@ Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Samantha Feldman, You-
 * [Integrated Metasurfaces on Silicon Photonics for Emission Shaping and Holographic Projection](https://doi.org/10.1515/nanoph-2022-0344)  
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
 *Nanophotonics* 11, 4687-4695 (2022).
+
+# Conference Proceedings  
+
+* [Strong squeezing from seed-assisted parametric amplification and its gain dependence in SiN microresonators](https://doi.org/10.1117/12.3085415)
+Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, You-Chia Chang, Thomas A. Smith, Avik Dutt
+*SPIE Photonics West*, 13920-83 (2026)/ <span>&#8224;</span>: co-first authors
+
+* [Observation of a bright squeezed quantum frequency comb in nanophotonics](https://doi.org/10.1364/CLEO_FS.2025.FF103_7)  
+Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, You-Chia Chang, Thomas A. Smith, Avik Dutt  
+*CLEO*, paper FF103.7 (2025). <span>&#8224;</span>: co-first authors
+
+* [Strong nanophotonic quantum squeezing exceeding 3.5 dB in Kerr microresonator](https://ieeexplore.ieee.org/abstract/document/11047155)  
+Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Samantha Feldman, You-Chia Chang, Thomas A. Smith, Avik Dutt  
+*OFC*, paper M3E.2 (2025). 
+
+* [2D wide field-of-view (FOV) metalens focal plane array (FPA) based silicon photonic beam steering for optical wireless communication (OWC)](https://ieeexplore.ieee.org/abstract/document/11047159)
+Pin-Cheng Kuo, Chung-Yu Hsu, **Ping-Yen Hsieh**, Yuan-Zeng Lin, You-Chia Chang, Chi-Wai Chow
+*OFC*, paper Th2A.41 (2025).
+
+* [Silicon Photonic Beam Steerer Based on Metalens Focal Plane Array with Direction Fine-tuning](https://doi.org/10.1364/CLEO_SI.2024.SW4O.5)  
+**Ping-Yen Hsieh** and You-Chia Chang  
+*CLEO*, paper SW4O.5 (2024).
 
 * Silicon Photonic On-chip Metasurfaces with Simultaneous Emission Amplitude and Phase Control  
 **Ping-Yen Hsieh**, Shun-Lin Fang, Yu-Siang Lin, Wen-Hsien Huang, Jia-Min Shieh, Peichen Yu, and You-Chia Chang  
