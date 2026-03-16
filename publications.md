@@ -23,7 +23,7 @@ Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Samantha Feldman, You-
 
 # Conference Proceedings  
 
-* [Strong squeezing from seed-assisted parametric amplification and its gain dependence in SiN microresonators](https://doi.org/10.1117/12.3085415)
+* [Strong squeezing from seed-assisted parametric amplification and its gain dependence in SiN microresonators](https://doi.org/10.1117/12.3085415)  
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, You-Chia Chang, Thomas A. Smith, Avik Dutt
 *SPIE Photonics West*, 13920-83 (2026)/ <span>&#8224;</span>: co-first authors
 
