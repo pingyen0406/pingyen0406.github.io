@@ -4,7 +4,11 @@ title: Publications
 permalink: /publications/
 author_profile: true
 ---
-## Journal Articles  
+## Journal Articles
+* [Silicon Photonic Beam Steerer Based on Metalens Focal Plane Array](https://arxiv.org/abs/2603.26654)  
+Chung-Yu Hsu<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Hsun-Sung Chiu, Li-Jun Tung, Chieh-Chih Yu, Ko-Chi Chen, Yu-Heng Hong, Hao-Chung Kuo, Chi-Wai Chow, You-Chia Chang 
+arXiv:2603.26654 (2026). <span>&#8224;</span>: co-first authors
+
 * [Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability](https://arxiv.org/abs/2505.03734)  
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Gregory Moille, Sashank Kaushik Sridhar, Alessandro Restelli, You-Chia Chang, Kartik Srinivasan, Thomas A. Smith, Avik Dutt  
 arXiv:2505.03734 (2025). <span>&#8224;</span>: co-first authors
