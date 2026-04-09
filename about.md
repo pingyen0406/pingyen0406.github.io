@@ -15,11 +15,11 @@ Welcome! I am working on classical and quantum aspects of integrated photonics. 
   *  Advisor: You-Chia Chang
 * B.S. in Physics, National Tsing Hua University, 2018
 
-## Experience
+## Academic Experience
 * May 2024 - May 2025: Research Scholar
   * University of Maryland
   * Supervisor: [Avik Dutt](https://floquet.umd.edu/avik-dutt/)
-* Sep 2020 - Aug 2021: Research Assistant
+* Sep 2020 - Aug 2021: Full-time Research Assistant
   * National Yang Ming Chiao Tung University
   * Supervisor: You-Chia Chang
     
