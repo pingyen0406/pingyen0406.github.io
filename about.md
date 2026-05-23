@@ -24,7 +24,7 @@ Welcome! I am working on classical and quantum aspects of integrated photonics. 
   * Supervisor: You-Chia Chang
     
 ## Honors and Awards
-* University of Maryland Invention of the Year 2025 Finalist, 2025
+* University of Maryland Invention of the Year Finalist, 2026
 * Graduate student studying abroad program, National Science and Technology Council, 2024
 * Science and Technology Research Scholarship, CTCI Foundation, 2023
 * Student Research Scholarship, National Yang Ming Chiao Tung University, 2023
