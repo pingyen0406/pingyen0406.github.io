@@ -29,15 +29,15 @@ Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Samantha Feldman, You-
 ## Conference Proceedings  
 * Demonstration of Quantum-enhanced Spectroscopic Sensing with an Integrated Squeezed Light Source    
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, Gregory Moille, You-Chia Chang, Thomas A. Smith, Avik Dutt  
-*CLEO*, AM4C.7 (2026) <span>&#8224;</span>: co-first authors
+*CLEO*, AM4C.7 (2026). <span>&#8224;</span>: co-first authors
 
 * Bright Two-mode EPR State with Self-homodyne Detection in Nanophotonics   
 Antoine Henry, Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Avik Dutt  
-*CLEO*, paper FTH1B.5 (2026)  
+*CLEO*, paper FTH1B.5 (2026).  
 
 * [Strong squeezing from seed-assisted parametric amplification and its gain dependence in SiN microresonators](https://doi.org/10.1117/12.3085415)  
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, You-Chia Chang, Thomas A. Smith, Avik Dutt  
-*SPIE Photonics West*, 13920-83 (2026) <span>&#8224;</span>: co-first authors
+*SPIE Photonics West*, 13920-83 (2026). <span>&#8224;</span>: co-first authors
 
 * [Observation of a bright squeezed quantum frequency comb in nanophotonics](https://doi.org/10.1364/CLEO_FS.2025.FF103_7)  
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, You-Chia Chang, Thomas A. Smith, Avik Dutt  
