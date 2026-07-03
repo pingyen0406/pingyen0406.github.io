@@ -27,11 +27,11 @@ Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Samantha Feldman, You-
 *Nanophotonics* 11, 4687-4695 (2022).
 
 ## Conference Proceedings  
-* [Demonstration of Quantum-enhanced Spectroscopic Sensing with an Integrated Squeezed Light Source]    
+* Demonstration of Quantum-enhanced Spectroscopic Sensing with an Integrated Squeezed Light Source    
 Yichen Shen<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Dhruv Srinivasan, Antoine Henry, Sashank Kaushik Sridhar, Gregory Moille, You-Chia Chang, Thomas A. Smith, Avik Dutt  
 *CLEO*, AM4C.7 (2026) <span>&#8224;</span>: co-first authors
 
-* [Bright Two-mode EPR State with Self-homodyne Detection in Nanophotonics]   
+* Bright Two-mode EPR State with Self-homodyne Detection in Nanophotonics   
 Antoine Henry, Yichen Shen, **Ping-Yen Hsieh**, Sashank Kaushik Sridhar, Avik Dutt  
 *CLEO*, paper FTH1B.5 (2026)  
 
