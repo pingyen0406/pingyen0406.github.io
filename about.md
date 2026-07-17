@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome! I am working on classical and quantum aspects of integrated photonics. Classically, I integrate metasurfaces with the silicon photonic platform for free-space beam shaping and steering. On the other hand, I use high-Q silicon nitride microresonators to generate squeezed states of light. Besides doing research, I like swimming and travelling.
+Welcome! I am a research scientist at the Trapped Ion Quantum Computing Laboratory, Hon Hai Research Institute, working on the chip-scale ion trap. Besides doing research, I like swimming and traveling.
 
 ## Education
 * Ph.D. in Photonics, National Yang Ming Chiao Tung University, 2025
