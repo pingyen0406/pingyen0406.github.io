@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome! I am a research scientist at the Trapped-Ion Quantum Computing Laboratory, Hon Hai Research Institute, working on the chip-scale ion trap. Besides doing research, I like swimming and traveling.
+Welcome! I am a research scientist at the [Trapped-Ion Quantum Computing Laboratory, Hon Hai Research Institute](https://hhri.foxconn.com/en/center/trapped-ion-quantum-computing-laboratory), working on the chip-scale ion trap. Besides doing research, I like swimming and traveling.
 
 ## Education
 * Ph.D. in Photonics, National Yang Ming Chiao Tung University, 2025
