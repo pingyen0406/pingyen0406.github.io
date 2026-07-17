@@ -33,4 +33,4 @@ Welcome! I am a research scientist at the [Trapped-Ion Quantum Computing Laborat
 
 ## Contact
 
-[pingyen.ee10@nycu.edu.tw](mailto:pingyen.ee10@nycu.edu.tw)
+[pingyen.hsieh@foxconn.com](mailto:pingyen.hsieh@foxconn.com)
