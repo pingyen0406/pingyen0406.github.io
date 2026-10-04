@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Articles
-* [Silicon Photonic Beam Steerer Based on Metalens Focal Plane Array](https://doi.org/10.1002/nap2.70274)  
+* [Silicon Photonic Beam Steerer Based on Metalens Focal Plane Array](https://onlinelibrary.wiley.com/doi/10.1002/nap2.70306)  
 Chung-Yu Hsu<span>&#8224;</span>, **Ping-Yen Hsieh**<span>&#8224;</span>, Hsun-Sung Chiu, Li-Jun Tung, Chieh-Chih Yu,  
 Ko-Chi Chen, Yu-Heng Hong, Hao-Chung Kuo, Chi-Wai Chow, You-Chia Chang  
 *Nanophotonics* e70274 (2026). <span>&#8224;</span>: co-first authors. <span style="color:red"> *Cover </span>
